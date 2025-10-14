@@ -11,3 +11,6 @@ console.log(false || 11 || 12); // 11
 console.log("Cal Poly" && 0); // 0
 console.log(1 && "CPP" && -10);
 
+//! not
+console.log(!("Bronco")); // False
+
